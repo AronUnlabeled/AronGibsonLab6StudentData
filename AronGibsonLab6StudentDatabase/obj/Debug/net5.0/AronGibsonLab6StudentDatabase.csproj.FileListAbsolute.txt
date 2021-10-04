@@ -1,0 +1,16 @@
+C:\Users\aron\source\repos\AronGibsonLab6StudentDatabase\AronGibsonLab6StudentDatabase\bin\Debug\net5.0\AronGibsonLab6StudentDatabase.exe
+C:\Users\aron\source\repos\AronGibsonLab6StudentDatabase\AronGibsonLab6StudentDatabase\bin\Debug\net5.0\AronGibsonLab6StudentDatabase.deps.json
+C:\Users\aron\source\repos\AronGibsonLab6StudentDatabase\AronGibsonLab6StudentDatabase\bin\Debug\net5.0\AronGibsonLab6StudentDatabase.runtimeconfig.json
+C:\Users\aron\source\repos\AronGibsonLab6StudentDatabase\AronGibsonLab6StudentDatabase\bin\Debug\net5.0\AronGibsonLab6StudentDatabase.runtimeconfig.dev.json
+C:\Users\aron\source\repos\AronGibsonLab6StudentDatabase\AronGibsonLab6StudentDatabase\bin\Debug\net5.0\AronGibsonLab6StudentDatabase.dll
+C:\Users\aron\source\repos\AronGibsonLab6StudentDatabase\AronGibsonLab6StudentDatabase\bin\Debug\net5.0\ref\AronGibsonLab6StudentDatabase.dll
+C:\Users\aron\source\repos\AronGibsonLab6StudentDatabase\AronGibsonLab6StudentDatabase\bin\Debug\net5.0\AronGibsonLab6StudentDatabase.pdb
+C:\Users\aron\source\repos\AronGibsonLab6StudentDatabase\AronGibsonLab6StudentDatabase\obj\Debug\net5.0\AronGibsonLab6StudentDatabase.csproj.AssemblyReference.cache
+C:\Users\aron\source\repos\AronGibsonLab6StudentDatabase\AronGibsonLab6StudentDatabase\obj\Debug\net5.0\AronGibsonLab6StudentDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aron\source\repos\AronGibsonLab6StudentDatabase\AronGibsonLab6StudentDatabase\obj\Debug\net5.0\AronGibsonLab6StudentDatabase.AssemblyInfoInputs.cache
+C:\Users\aron\source\repos\AronGibsonLab6StudentDatabase\AronGibsonLab6StudentDatabase\obj\Debug\net5.0\AronGibsonLab6StudentDatabase.AssemblyInfo.cs
+C:\Users\aron\source\repos\AronGibsonLab6StudentDatabase\AronGibsonLab6StudentDatabase\obj\Debug\net5.0\AronGibsonLab6StudentDatabase.csproj.CoreCompileInputs.cache
+C:\Users\aron\source\repos\AronGibsonLab6StudentDatabase\AronGibsonLab6StudentDatabase\obj\Debug\net5.0\AronGibsonLab6StudentDatabase.dll
+C:\Users\aron\source\repos\AronGibsonLab6StudentDatabase\AronGibsonLab6StudentDatabase\obj\Debug\net5.0\ref\AronGibsonLab6StudentDatabase.dll
+C:\Users\aron\source\repos\AronGibsonLab6StudentDatabase\AronGibsonLab6StudentDatabase\obj\Debug\net5.0\AronGibsonLab6StudentDatabase.pdb
+C:\Users\aron\source\repos\AronGibsonLab6StudentDatabase\AronGibsonLab6StudentDatabase\obj\Debug\net5.0\AronGibsonLab6StudentDatabase.genruntimeconfig.cache

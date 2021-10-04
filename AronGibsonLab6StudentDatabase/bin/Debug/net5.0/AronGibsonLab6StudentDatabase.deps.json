@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AronGibsonLab6StudentDatabase/1.0.0": {
+        "runtime": {
+          "AronGibsonLab6StudentDatabase.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AronGibsonLab6StudentDatabase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
